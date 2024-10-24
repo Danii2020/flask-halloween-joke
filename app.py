@@ -20,7 +20,7 @@ def speak(text):
 def speak_message(message):
     try:
         speak(message)
-        return jsonify({"message": "Message spoke successfully!"}), 200
+        return jsonify({"message": "Message spoken successfully!"}), 200
     except Exception as e:
         return jsonify({"message": f"There was an error: {e}"}), 500
     
