@@ -15,7 +15,7 @@ This project is a Flask app that exposes one API route with the path `/speak/<st
 
 ## Installation
 
-1. Clone the repository by using the command `git clone https://github.com/Danii2020/flask-halloween-joke`
+1. Clone the repository by using the command `git clone https://github.com/Danii2020/flask-halloween-joke.git`
 
 2. Go to the project directory by using the command `cd flask-halloween-joke`
 
